@@ -3,7 +3,7 @@
 
 ## 👋 Hai! Saya Bima Raden Syahputra
 
-Saya seorang remaja dari Jakarta yang telah berkecimpung di dunia web development sejak tahun 2021.  
+Saya seorang remaja dari Jakarta yang telah berkecimpung di dunia web development sejak tahun 2021, dan mulai tertarik pada dunia keamanan siber sejak tahun 2025.  
 **"Web development is not just about building websites, it's about building experiences."**
 
 
