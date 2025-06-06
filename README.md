@@ -1,6 +1,12 @@
-## Hi im Bima Raden 👋
-
 ![Bima Raden](./img/Header-1.png)
+
+
+## 👋 Hai! Saya Bima Raden Syahputra
+
+Saya seorang remaja dari Jakarta yang telah berkecimpung di dunia web development sejak tahun 2023.  
+**"Web development is not just about building websites, it's about building experiences."**
+
+
 
 ---
 
