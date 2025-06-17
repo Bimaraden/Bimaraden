@@ -5,7 +5,7 @@
 
 Saya seorang remaja dari Jakarta yang telah berkecimpung di dunia web development sejak tahun 2022, dan dunia keamanan siber sejak tahun 2025.  
 
-**-"Web development is not just about building websites, it's about building experiences."**
+**"Web development is not just about building websites, it's about building experiences."**
 
 
 
