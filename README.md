@@ -20,7 +20,7 @@ Saya seorang remaja dari Jakarta yang telah berkecimpung di dunia web developmen
 ### 💻 Tech Stack:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,vue,tailwind,bootstrap,figma,arduino" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,vue,tailwind,bootstrap,figma,arduino,vercel" />
   </a>
 </p>
 
