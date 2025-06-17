@@ -1,4 +1,4 @@
-![Bima Raden](./img/Header-1.png)
+![Bima Raden](./img/Header-2.png)
 
 
 ## 👋 Hai! Saya Bima Raden Syahputra
